@@ -4,7 +4,9 @@ import Footer from '../../components/Footer';
 import ServiceMain from './ServiceMain';
 
 // Image
-import Logo from '../../assets/images/logos/logo-colored.svg';
+import Logo from '../../assets/images/logos/logo2.png';
+import Logo2 from '../../assets/images/logos/logo1.png';
+
 
 const Service = () => {
 
@@ -12,7 +14,7 @@ const Service = () => {
         <React.Fragment>
             <Header
                 parentMenu = 'page'
-                headerNormalLogo={Logo}
+                headerNormalLogo={Logo2}
                 headerClass="ras-header ras-header-2"
             />
 
@@ -21,7 +23,6 @@ const Service = () => {
             {/* Service Main */}
             
             <Footer
-                footerClass="ras-footer ras-footer-1 ras-footer-1-fade-bg"
                 footerLogo={Logo}
             />
         </React.Fragment>

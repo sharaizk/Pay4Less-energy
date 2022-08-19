@@ -2,7 +2,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import Logo from '../../assets/images/logos/logo-colored.svg';
+import Logo from '../../assets/images/logos/logo1.png';
 import insImg1 from '../../assets/images/instagram/insta-1.jpg';
 import insImg2 from '../../assets/images/instagram/insta-2.jpg';
 import insImg3 from '../../assets/images/instagram/insta-3.jpg';

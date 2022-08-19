@@ -4,7 +4,7 @@ import Footer from '../../components/Footer';
 import AboutMain from './AboutMain';
 
 // Image
-import Logo from '../../assets/images/logos/logo-colored.svg';
+import Logo from '../../assets/images/logos/logo2.png';
 
 const About = () => {
 
@@ -18,8 +18,8 @@ const About = () => {
             <AboutMain />
             
             <Footer
-                footerClass="ras-footer ras-footer-1 ras-footer-1-fade-bg"
                 footerLogo={Logo}
+                footerCTA='enable'
             />
         </React.Fragment>
     );

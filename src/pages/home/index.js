@@ -3,7 +3,7 @@ import HomeMain from './HomeMain';
 import HeaderStyleTwo from '../../components/Header/HeaderStyleTwo';
 import Footer from '../../components/Footer';
 
-import footerLogo from '../../assets/images/logos/logo.svg';
+import footerLogo from '../../assets/images/logos/logo2.png';
 
 class HomePage extends React.Component {
     render() {
