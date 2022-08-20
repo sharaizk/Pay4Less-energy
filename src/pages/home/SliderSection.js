@@ -44,12 +44,14 @@ const HomeSlider = () => {
                     Pay 4 Less
                   </h3>
                   <h2 className="ras-slide-heading text-white">
-                    Business Services Simplified
+                    The Smarter Way to Save
                   </h2>
                   <p className="ras-slide-desc text-white mb-50">
-                    Our team of experts ranked the best branding agencies. Find
-                    the right branding company for your next project by client
-                    positive reviews.
+                    At PAY 4 LESS ENERGY, we're experts in energy procurement,
+                    and we're here to help your business succeed. We work with
+                    businesses of all sizes throughout the UK, and we're trusted
+                    by thousands of clients to deliver tailored energy
+                    solutions.
                   </p>
                   <Link
                     to="/contact"

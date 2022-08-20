@@ -69,6 +69,7 @@
 /* -----------------------------------
     01. General CSS
 -------------------------------------*/
+
 html,
 body {
     font-size: 18px;
@@ -1769,7 +1770,7 @@ input:-webkit-autofill {
     position: relative;
 }
 
-.ras-why-choose-us-1 img {
+.ras-why-choose-us-1 > img {
     position: absolute;
     top: 10%;
     left: -5%;
@@ -3530,6 +3531,8 @@ input:-webkit-autofill {
     }
 }
 
+
+
 @keyframes toRightFromLeft {
     49% {
         -webkit-transform: translate(100%);
@@ -3621,3 +3624,5 @@ input:-webkit-autofill {
         transform: translateY(-30px);
     }
 }
+
+

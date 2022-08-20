@@ -42,7 +42,7 @@
   }
 
   &__desc {
-    margin-left: -40px;
+    // margin-left: -40px;
     padding-right: 17px;
     margin-top: 0;
     margin-bottom: 0;
@@ -52,7 +52,7 @@
   }
 }
 .faq__desc.show-description {
-  height: 2rem;
+  height: 100%;
   margin-bottom: 15px;
 }
 
