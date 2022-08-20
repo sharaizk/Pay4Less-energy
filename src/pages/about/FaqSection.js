@@ -13,58 +13,18 @@ const Faq = () => {
           <div className="col-lg-6">
             <div className="ras-success-story">
               <h2>
-                A agency experience{" "}
-                <span className="color-title">
-                  creative & inteligents people.
-                </span>
+                We deal in all
+                <span className="color-title"> business sectors.</span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                seieiusmodil Lorem ipsum dolor sit amet, consectetur adipisicing
-                elit, seieiusmod tempor is exercitation ullamco laboris.
+                No matter the size, sector, or complexity of the utilities
+                problem, as a company, we have the strategic insight and
+                technical know-how to handle it. Recognizing the necessity to
+                always innovate in order to stay on top of things as utility
+                bills rise. Delivering effective utilities management strategies
+                depends equally on what you do internally and outside. We are
+                extremely strong and skilled in a variety of sectors.
               </p>
-            </div>
-
-            <div className="ras-experience-progress mb-50 sm-mb-0">
-              <Fade bottom cascade>
-                <div className="row">
-                  <div className="col-sm-4">
-                    <div className="ras-progress-wrapper">
-                      <ProgressBarCircle
-                        progress="90"
-                        strokeColor="#4d41e1"
-                        trackstrokeColor="#cccccc"
-                        Icon="flaticon-vector"
-                        iconClass="ras-progress-icon purple-bg-icon"
-                      />
-                    </div>
-                  </div>
-
-                  <div className="col-sm-4">
-                    <div className="ras-progress-wrapper">
-                      <ProgressBarCircle
-                        progress="70"
-                        strokeColor="#ff884e"
-                        trackstrokeColor="#cccccc"
-                        Icon="flaticon-digital-marketing"
-                        iconClass="ras-progress-icon orange-bg-icon"
-                      />
-                    </div>
-                  </div>
-
-                  <div className="col-sm-4">
-                    <div className="ras-progress-wrapper">
-                      <ProgressBarCircle
-                        progress="90"
-                        strokeColor="#36c1ea"
-                        trackstrokeColor="#cccccc"
-                        Icon="flaticon-web-programming"
-                        iconClass="ras-progress-icon skyblue-bg-icon"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </Fade>
             </div>
           </div>
 
