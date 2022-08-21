@@ -9,6 +9,7 @@
     "bootstrap": "^5.2.0-beta1",
     "core-js": "^3.8.2",
     "emailjs-com": "^3.2.0",
+    "formik": "^2.2.9",
     "postcss-flexbugs-fixes": "^5.0.2",
     "react": "^17.0.1",
     "react-accessible-accordion": "^3.3.3",
@@ -24,8 +25,10 @@
     "react-scripts": "^5.0.1",
     "react-slick": "^0.28.1",
     "react-tabs": "^3.2.2",
+    "react-toastify": "^9.0.8",
     "react-visibility-sensor": "^5.1.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "yup": "^0.32.11"
   },
   "scripts": {
     "start": "react-scripts start",

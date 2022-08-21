@@ -27,12 +27,7 @@ const SingleService = (props) => {
             </p>
           </div>
         </div>
-        <Link
-          to="/service/service-details"
-          className={BtnClass ? BtnClass : "read-more bg-purple"}
-        >
-          <i className="icofont-long-arrow-right"></i>
-        </Link>
+
       </div>
     </div>
   );

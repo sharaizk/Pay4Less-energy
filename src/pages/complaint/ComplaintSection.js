@@ -35,21 +35,23 @@ const Complaint = () => {
         <Fade bottom>
           <div className="row mb-4">
             <div className="col-lg-12">
-              <b>Stage 1:</b>
-            </div>
-            <div className="col-lg-12">
+              <b>Stage 1: </b>
               As soon as we receive your complaint, we will begin to investigate
               it. We may ask for additional information or clarification to help
               us understand the situation better. If you wish to make a
               complaint, please contact us on:
               <br />
-              <b>Phone:</b>
+              <b>Phone: </b>
+              07576503089
               <br />
-              <b>Email:</b>
+              <b>Email: </b>
+              <a href="mailto:info@pay4lessenergyltd.co.uk">
+                info@pay4lessenergyltd.co.uk
+              </a>
               <br />
-              <b>Post:</b>
-              <br />
-              <b>Online:</b>
+              <b>Post: </b>
+              Kilroy House, 400 Roding Lane South Woodford, London, Essex,
+              England, IG8 8EY
               <br />
             </div>
           </div>
@@ -58,9 +60,7 @@ const Complaint = () => {
         <Fade bottom>
           <div className="row mb-4">
             <div className="col-lg-12">
-              <b>Stage 2:</b>
-            </div>
-            <div className="col-lg-12">
+              <b>Stage 2: </b>
               We will look into the issues you have raised.
             </div>
           </div>
@@ -69,9 +69,7 @@ const Complaint = () => {
         <Fade bottom>
           <div className="row mb-4">
             <div className="col-lg-12">
-              <b>Stage 3:</b>
-            </div>
-            <div className="col-lg-12">
+              <b>Stage 3: </b>
               Our goal is to resolve your complaint within 3 working days, if we
               have all the information we need. However, if we aren't able to
               finish our investigation by then, we'll let you know what our
@@ -83,9 +81,7 @@ const Complaint = () => {
         <Fade bottom>
           <div className="row mb-4">
             <div className="col-lg-12">
-              <b>Stage 4:</b>
-            </div>
-            <div className="col-lg-12">
+              <b>Stage 4: </b>
               We will write to you within 8 weeks of your initial complaint to
               update you on the investigation's progress and to propose a
               resolution to the problem
@@ -96,9 +92,7 @@ const Complaint = () => {
         <Fade bottom>
           <div className="row mb-4">
             <div className="col-lg-12">
-              <b>Stage 5:</b>
-            </div>
-            <div className="col-lg-12">
+              <b>Stage 5: </b>
               We will act promptly on any resolution that is agreed upon.
             </div>
           </div>
@@ -107,10 +101,8 @@ const Complaint = () => {
         <Fade bottom>
           <div className="row mb-4">
             <div className="col-lg-12">
-              <b>Stage 6:</b>
-            </div>
-            <div className="col-lg-12">
               <p>
+                <b>Stage 6: </b>
                 Sometimes, even when both parties are working hard to come to an
                 agreement, it just doesn't happen. If Pay4less reaches this
                 point with you, we'll let you know in writing with a deadlock

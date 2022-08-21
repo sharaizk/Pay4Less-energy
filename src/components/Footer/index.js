@@ -43,20 +43,17 @@ const Footer = (props) => {
                 </Link>
               </div>
 
-              <p className="ras-about-desc">
-                This is Photoshop's version of LoreiIpsum.
-                <br /> Aenean sollicitudin,{" "}
-              </p>
-
               <div className="ras-about-address">
                 <p className="mb-0">
                   Address: House 22, Road No : 3, Street address, DHK
                 </p>
                 <p>
-                  Phone: <a href="tel:+000-1234-678">+000-1234-678</a>
+                  Phone: <a href="tel:+000-1234-678">02085506625</a>
                   <span className="email">
                     Email:{" "}
-                    <a href="mailto:info@yourmail.com">info@yourmail.com</a>
+                    <a href="mailto:info@pay4lessenergyltd.co.uk">
+                      info@pay4lessenergyltd.co.uk
+                    </a>
                   </span>
                 </p>
               </div>
@@ -84,10 +81,10 @@ const Footer = (props) => {
               </ul>
             </div>
             <div className="col-lg-4 col-md-12 ras-widget-subscribe">
-              <h3 className="ras-widget-title">Subscribes</h3>
+              <h3 className="ras-widget-title">P4L</h3>
               <p>
-                This is Photoshop's version of LoreiIpsum. Proin gravida nibh
-                vel velit auctor aliquet. Aenean sollicitudin,{" "}
+                At PAY 4 LESS ENERGY, we're experts in energy procurement, and
+                we're here to help your business succeed.
               </p>
             </div>
           </div>

@@ -24,7 +24,7 @@ const Service = () => {
                 itemClass="ras-services-item"
                 icon="pepicons:electricity"
                 Title="Electric"
-                Desc="Our energy experts understand that not every business is the same, so we tailor our electricity price comparisons to your business needs. This way, you'll save time and money."
+                Desc="Our energy experts understand that not every business is the same, so we tailor our electricity price comparisons to your business needs."
               />
             </div>
             <div className="col-lg-4">
