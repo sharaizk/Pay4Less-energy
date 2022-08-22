@@ -13,8 +13,7 @@ const Service = () => {
         <Fade bottom>
           <h2 className="mb-50 text-center">
             With our help, you can focus on what you do best and leave the
-            energy procurement
-            <span class="color-title"> to us.</span>
+            energy procurement to us.
           </h2>
         </Fade>
         <Fade left cascade>

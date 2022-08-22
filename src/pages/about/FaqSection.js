@@ -1,8 +1,6 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
 
-import successImg from "../../assets/images/success-story/success-1.jpg";
-
 const Faq = () => {
   return (
     <div className="ras-about ras-success-faq sm-pb-0">
