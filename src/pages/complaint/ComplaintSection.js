@@ -11,7 +11,7 @@ const Complaint = () => {
       <div className="container">
         <Fade bottom>
           <h2 className="mb-50 md-mb-30 text-center">
-            Complaint handling <span class="color-title">Procedure</span>
+            Complaint Handling <span class="color-title">Procedure</span>
           </h2>
         </Fade>
         <Fade bottom>
@@ -107,7 +107,7 @@ const Complaint = () => {
                 agreement, it just doesn't happen. If Pay4less reaches this
                 point with you, we'll let you know in writing with a deadlock
                 letter
-              </p>
+              </p> 
               <br />
               <p>
                 If both parties reach to the stage 6 or the complaint has been
