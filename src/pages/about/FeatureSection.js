@@ -48,7 +48,7 @@ const Feature = () => {
                   <Fade bottom>
                     <div className="features-btn">
                       <Link to="/contact" className="btn btn-large btn-primary">
-                        Explore More
+                        Contact Us
                       </Link>
                     </div>
                   </Fade>

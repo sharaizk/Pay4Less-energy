@@ -32,7 +32,7 @@ const Service = () => {
                 itemClass="ras-services-item"
                 icon="la:burn"
                 Title="Gas"
-                Desc="At our company, we have a team of energy experts. Their job is to compare energy prices and help get your business the best deal possible on gas supply,"
+                Desc="At our company, we have a team of energy experts. Their job is to compare energy prices and help get your business the best deal possible on gas supply."
               />
             </div>
             <div className="col-lg-4">
