@@ -25,6 +25,7 @@ const Service = () => {
                 icon="pepicons:electricity"
                 Title="Electric"
                 Desc="Our energy experts understand that not every business is the same, so we tailor our electricity price comparisons to your business needs."
+                showNav={true}
               />
             </div>
             <div className="col-lg-4">
@@ -33,6 +34,7 @@ const Service = () => {
                 icon="la:burn"
                 Title="Gas"
                 Desc="At our company, we have a team of energy experts. Their job is to compare energy prices and help get your business the best deal possible on gas supply."
+                showNav={true}
               />
             </div>
             <div className="col-lg-4">
@@ -41,6 +43,7 @@ const Service = () => {
                 icon="maki:communications-tower"
                 Title="Telecommunication"
                 Desc="Connecting people is our work and we are doing it better than anyone. We combine cutting-edge technology with an exceptional customer service"
+                showNav={true}
               />
             </div>
           </div>

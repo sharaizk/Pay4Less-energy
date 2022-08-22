@@ -75,7 +75,7 @@ const Footer = (props) => {
                   <Link to="/faqs">FAQs</Link>
                 </li>
                 <li>
-                  <Link to="/complaints-handling-procedure">
+                  <Link to="/complaint-handling-procedure">
                     Complaints Handling Procedure
                   </Link>
                 </li>

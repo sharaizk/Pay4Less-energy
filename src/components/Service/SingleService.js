@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Icon } from "@iconify/react";
 const SingleService = (props) => {
-  const { itemClass, icon, IconClass, BtnClass, Title, Desc } = props;
+  const { itemClass, icon, IconClass, BtnClass, Title, Desc, showNav } = props;
   return (
     <div className={itemClass ? itemClass : "ras-services-item"}>
       <div className="ras-service-info">
@@ -12,7 +12,7 @@ const SingleService = (props) => {
               IconClass ? IconClass : "ras-service-icon purple-bg-icon"
             }
           >
-            <Icon icon={icon} fontSize={48} color="#4d40e1"/>
+            <Icon icon={icon} fontSize={48} color="#4d40e1" />
           </div>
           <div className="ras-service-title-wrap">
             <h3 className="ras-service-title">
@@ -27,7 +27,14 @@ const SingleService = (props) => {
             </p>
           </div>
         </div>
-
+        {showNav && (
+          <Link
+            to="/service"
+            className={BtnClass ? BtnClass : "read-more bg-purple"}
+          >
+            <i className="icofont-long-arrow-right"></i>
+          </Link>
+        )}
       </div>
     </div>
   );
