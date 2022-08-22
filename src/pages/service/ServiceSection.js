@@ -12,7 +12,7 @@ const Service = () => {
         <Fade bottom>
           <h2 className="mb-50 md-mb-30 text-center">
             We’ve helped hundreds
-            <br /> of clients to reach internet & grow
+            <br /> of clients to grow
             <br /> <span class="color-title">their Business</span>
           </h2>
         </Fade>

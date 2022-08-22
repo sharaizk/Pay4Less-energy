@@ -20,7 +20,7 @@ const Footer = (props) => {
               <Fade bottom>
                 <div className="ras-calltoaction">
                   <h2>
-                    If you have any project or query for us <br />{" "}
+                    If you have any query for us <br />{" "}
                     <b> Please contact us</b>
                   </h2>
                   <Link to="/contact" className="btn btn-primary btn-large">

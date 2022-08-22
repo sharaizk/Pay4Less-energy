@@ -31,10 +31,10 @@ const ContactForm = (props) => {
       const loadingToast = toast.loading("Sending your message");
       try {
         await emailjs.sendForm(
-          "service_5e2ni8i",
-          "template_ab3qic3",
+          "service_i19rech",
+          "template_khqegvp",
           form.current,
-          "XwbDQm3Lekkjh80AQ"
+          "5-po7Mnecn4hz6Ibi"
         );
         toast.update(loadingToast, {
           render: "Thank You, you will hear from us soon.",
@@ -45,6 +45,7 @@ const ContactForm = (props) => {
         });
         resetForm();
       } catch (error) {
+        alert(error);
         toast.update(loadingToast, {
           render: "Couldn't send your message, Please wait till we fix it.",
           type: "error",
@@ -61,7 +62,7 @@ const ContactForm = (props) => {
       <Fade right>
         <h2>Contact Us</h2>
         <FormikProvider value={formik}>
-          <Form id="contact-form" onSubmit={handleSubmit}>
+          <Form ref={form} id="contact-form" onSubmit={handleSubmit}>
             <div className="form-group">
               <label for="name" className="sr-only">
                 Name

@@ -4,9 +4,9 @@ import Accordion from "../../components/Accordion";
 const FaqMain = () => {
   const questionsAnswers = [
     {
-      question: "How is it possible to save money on my energy bills?",
+      question: "How does an energy broker get paid?",
       answer:
-        "The domestic energy supply market is full of competition amongst suppliers of gas and electricity to households in England, Scotland and Wales – namely, between the ‘Big Six’ suppliers and smaller, independent companies. While the actual supply of electricity and gas you receive is always the same, you can change your supplier or tariff to get yourself a better deal and pay less for the energy you use. The easiest way to find out if you could save is to run a market comparison.",
+        "The majority of brokers, including Pay4less Energy use a commission-based payment method. This means that the supplier offers you a small uplift in the form of a unit rate which will be paid to the broker. For example, your unit rate is 30p and broker add 1p uplift in it then the final unit rate will be 31p",
     },
     {
       question: "Do I need to change any pipes or wires if I change suppliers?",
@@ -44,16 +44,16 @@ const FaqMain = () => {
         "Once you decide to change supplier, you will have to settle any outstanding balance with your old supplier.",
     },
     {
-      question: "What about my boiler / central heating contract?",
-      answer: `This is not affected if you switch.`,
+      question: "What is an LOA?",
+      answer: `A letter of authority (LOA) is a legal documentation that hands over authority to us so that we can deal with your current supplier when transferring you leaving you with minimal hassle`,
     },
     {
-      question: "What happens if my supplier goes out of business?",
-      answer: `Ofgem will find you a new one until you choose another, without any disruption to your supplier.`,
+      question: "Do I need to sign an LOA?",
+      answer: `It is not mandatory to sign an LOA as you do reserve the right to deal with matters independently, however it is advisable as it may ensure a swift transfer. An LOA is available on request and we will forward it to your supplier once you have signed it.`,
     },
     {
-      question: "Do you provide additional support?",
-      answer: `Email support is available 24/7. Phone lines are open during normal business hours.`,
+      question: "Does an LOA hand over full rights to you?",
+      answer: `There are various levels to an LOA which will be highlighted on the document itself. The level you sign is at your discretion and will solely be used for the transfer of your utilities once you have agreed. Once transfer is completed, the LOA is void and disregarded.`,
     },
   ];
   return (
