@@ -1,7 +1,5 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
-import { Link } from "react-router-dom";
-import ProgressBarCircle from "../../components/Progress/ProgressCircle";
 
 import successImg from "../../assets/images/success-story/success-1.jpg";
 
@@ -31,7 +29,7 @@ const Faq = () => {
           <div className="col-lg-6">
             <Fade right>
               <div className="ras-success-story-image">
-                <img src={successImg} alt="Our Success Story" />
+                <img src={"https://img.freepik.com/free-photo/no-people-desk-with-multiple-computers-call-center-office-used-by-telemarketing-agents-answer-phone-calls-helpline-empty-space-with-technology-give-assistance-customer-care_482257-40793.jpg?w=2000&t=st=1661173432~exp=1661174032~hmac=113d0d60f3f0fd40f7d010e7848a8a2938e56d927cf149458d349284a69d16bc"} alt="Our Success Story" />
               </div>
             </Fade>
           </div>
