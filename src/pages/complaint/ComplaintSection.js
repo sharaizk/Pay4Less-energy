@@ -119,7 +119,7 @@ const Complaint = () => {
                 Ombudsman Scheme is free and impartial. Pay4less provides a
                 resolution and determination service in case we and our customer
                 cannot come to a resolution through our customer complaint
-                procedure then the service of <b>Ombudsman Services (Energy)</b>
+                procedure then the service of <b>Ombudsman Services (Energy) </b>
                 is available to our customers so that they can have their voices
                 heard and a resolution can be reached.
               </p>
