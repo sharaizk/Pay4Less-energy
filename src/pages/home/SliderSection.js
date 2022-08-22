@@ -40,15 +40,13 @@ const HomeSlider = () => {
             <div className="ras-slide">
               <div className="container">
                 <div className="ras-slide-content">
-                  <h3 className="ras-slide-sub-heading text-white">
-                    Pay 4 Less
-                  </h3>
+                  <h3 className="ras-slide-sub-heading text-white">Pay4Less</h3>
                   <h2 className="ras-slide-heading text-white">
                     The Smarter Way to Save
                   </h2>
                   <p className="ras-slide-desc text-white mb-50">
-                    At PAY 4 LESS ENERGY, we're experts in energy procurement,
-                    and we're here to help your business succeed. We work with
+                    At PAY4LESS ENERGY, we're experts in energy procurement, and
+                    we're here to help your business succeed. We work with
                     businesses of all sizes throughout the UK, and we're trusted
                     by thousands of clients to deliver tailored energy
                     solutions.

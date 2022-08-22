@@ -140,6 +140,17 @@ const Complaint = () => {
                 <b>Post: </b>
                 Ombudsman Services Energy, PO Box, Warrington, WA4 9DF
               </p>
+              <p>
+                Further information on the Ombudsman process can be found online
+                at:
+                <br />
+              </p>
+              <a
+                href="https://partners.ombudsman-services.org/our-services/our-process"
+                target="_blank"
+              >
+                https://partners.ombudsman-services.org/our-services/our-process
+              </a>
             </div>
           </div>
         </Fade>

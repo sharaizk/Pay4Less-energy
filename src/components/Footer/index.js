@@ -20,7 +20,7 @@ const Footer = (props) => {
               <Fade bottom>
                 <div className="ras-calltoaction">
                   <h2>
-                    If you have any project or task for us <br />{" "}
+                    If you have any project or query for us <br />{" "}
                     <b> Please contact us</b>
                   </h2>
                   <Link to="/contact" className="btn btn-primary btn-large">
@@ -45,7 +45,8 @@ const Footer = (props) => {
 
               <div className="ras-about-address">
                 <p className="mb-0">
-                  Address: House 22, Road No : 3, Street address, DHK
+                  Address: Kilroy House, 400 Roding Lane South Woodford, London,
+                  Essex, England, IG8 8EY
                 </p>
                 <p>
                   Phone: <a href="tel:+000-1234-678">02085506625</a>

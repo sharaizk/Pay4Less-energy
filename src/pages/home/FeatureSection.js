@@ -14,9 +14,7 @@ const Feature = () => {
             <Fade left>
               <div className="ras-features-image">
                 <img src={featureImg} alt="our-features" />
-                <a className="support-mail" href="mailto:support@raisn.com">
-                  support@raisn.com
-                </a>
+
                 <div className="features-color-dots"></div>
                 <div className="features-white-dots"></div>
               </div>
@@ -25,7 +23,7 @@ const Feature = () => {
           <div className="col-lg-6">
             <div className="ras-features-details">
               <Fade right>
-                <h2>A creative agency of inteligents & creative people</h2>
+                <h2>A creative company of intelligent & creative people</h2>
                 <p>
                   Why do most of our clients choose us? Because we always put
                   the client first. We understand that every business is unique

@@ -12,9 +12,9 @@ const Service = () => {
       <div className="container">
         <Fade bottom>
           <h2 className="mb-50 text-center">
-            We’ve helped hundreds <br />
-            of clients to reach internet & grow
-            <br /> <span class="color-title">their Business</span>
+            With our help, you can focus on what you do best and leave the
+            energy procurement
+            <br /> <span class="color-title">to us.</span>
           </h2>
         </Fade>
         <Fade left cascade>

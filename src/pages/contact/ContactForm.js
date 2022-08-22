@@ -59,7 +59,7 @@ const ContactForm = (props) => {
   return (
     <div className="ras-contact-form">
       <Fade right>
-        <h2>Book an Appointments</h2>
+        <h2>Contact Us</h2>
         <FormikProvider value={formik}>
           <Form id="contact-form" onSubmit={handleSubmit}>
             <div className="form-group">

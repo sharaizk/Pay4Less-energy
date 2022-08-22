@@ -69,22 +69,10 @@ const HeaderStyleTwo = (props) => {
                     </li>
                     <li
                       className={
-                        location.pathname === "/contact" ? "active" : ""
-                      }
-                    >
-                      <Link to="/contact">Contact</Link>
-                    </li>
-                    <li
-                      className={
                         location.pathname === "/service" ? "active" : ""
                       }
                     >
                       <Link to="/service">Services</Link>
-                    </li>
-                    <li
-                      className={location.pathname === "/faqs" ? "active" : ""}
-                    >
-                      <Link to="/faqs">FAQs</Link>
                     </li>
                     <li
                       className={
@@ -95,6 +83,19 @@ const HeaderStyleTwo = (props) => {
                     >
                       <Link to="/complaint-handling-procedure">Complaints</Link>
                     </li>
+                    <li
+                      className={location.pathname === "/faqs" ? "active" : ""}
+                    >
+                      <Link to="/faqs">FAQs</Link>
+                    </li>
+                    <li
+                      className={
+                        location.pathname === "/contact" ? "active" : ""
+                      }
+                    >
+                      <Link to="/contact">Contact</Link>
+                    </li>
+
                     <li>
                       <Link to="/contact">Get a Qoute</Link>
                     </li>

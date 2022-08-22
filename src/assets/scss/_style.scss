@@ -1180,6 +1180,9 @@ input:-webkit-autofill {
 .ras-service-icon.yellow-bg-icon::before {
     background-color: var(--yellow-color);
 }
+.ras-services{
+    height: 100%;
+}
 
 .ras-services .read-more {
     display: block;

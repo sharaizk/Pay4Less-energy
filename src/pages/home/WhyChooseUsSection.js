@@ -26,7 +26,10 @@ const WhyChooseUs = () => {
         <div className="row align-items-start">
           <div className="col-lg-5 col-md-12">
             <Fade bottom>
-              <h2>We work with the top UK Electricity and Gas Suppliers</h2>
+              <h2>
+                We work with the top UK Electricity, Gas, and Telecommunication
+                Suppliers
+              </h2>
             </Fade>
           </div>
           <div className="col-lg-7 col-md-12 brands">
@@ -136,13 +139,6 @@ const WhyChooseUs = () => {
                     className="brand-img"
                     style={{ width: "60%" }}
                     src={logo15}
-                  />
-                </div>
-                <div className="col-12 d-flex justify-content-center align-items-center col-md-3">
-                  <img
-                    className="brand-img"
-                    style={{ width: "70%" }}
-                    src={logo16}
                   />
                 </div>
               </div>
