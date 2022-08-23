@@ -4,7 +4,7 @@ import Footer from '../../components/Footer';
 import AboutMain from './AboutMain';
 
 // Image
-import Logo from '../../assets/images/logos/logo2.png';
+import Logo from '../../assets/images/logos/logo1.png';
 
 const About = () => {
 
